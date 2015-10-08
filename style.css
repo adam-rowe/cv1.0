@@ -1,44 +1,56 @@
 #wrapper{
-	width:960px;
-	height:900px;
-	background:black;
+	width:1000px;
+	height:1500px;
+	background:white;
 	margin:0 auto;
 }
 
 #ALittleAboutMyself{
 	width:100%;
-	height:20%;
-	background:cyan;
+	height:8%;
+	background:lightblue;
 }
 
 #Skills{
 	width:100%;
-	height:70%;
-	background:grey;
+	height:8%;
+	background:white;
 }
 
 #Education{
-	width:100%;
-	height:15%;
-	background:cyan;
-}
-
-#Hobbies{
-	width:15%;
-	height:100%;
-	background:green;
+	width:50%;
+	height:28%;
+	background:lightblue;
 	float:left;
 }
 
-#Previouswork{
-	width:15%;
-	height:100%;
-	background:green;
+#Hobbies{
+	width:50%;
+	height:28%;
+	background:lightblue;
 	float:right;
+}
+
+#Previouswork{
+	width:100%;
+	height:10%;
+	background:white;
 }
 
 #Achievements{
 	width:100%;
-	height:20%;
-	background:white;
+	height:8%;
+	background:lightblue;
+}
+
+
+#form{
+	width:100%;
+	height:10%;
+	background:black;
+}
+
+h1{
+	font-style:bold;
+	font:Slab Serif;
 }
